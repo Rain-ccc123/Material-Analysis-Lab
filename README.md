@@ -1,9 +1,9 @@
 
-# Material Analysis Lab: Online Platform for Quantitative TEM, XRD, and SAXS Analysis of Carbon Materials
+# Material Analysis Lab: Online Platform for Quantitative TEM, XRD, SAXS Analysis of Carbon Materials
 
 **Website:** [http://106.53.68.158:5000/](http://106.53.68.158:5000/)
 
-This online platform, referred to as **Material Analysis Lab**, provides an integrated environment for **quantitative microstructural analysis of carbon materials**, with a particular focus on **hard carbon negative electrodes for sodium-ion batteries**. The tool combines **TEM image analysis**, **XRD peak fitting**, and **SAXS unified modeling** into a single web interface to facilitate reproducible data processing and structure–performance correlation studies.
+This online platform, referred to as **Material Analysis Lab**, provides an integrated environment for **quantitative microstructural analysis of carbon materials**, with a particular focus on **hard carbon negative electrodes for sodium-ion batteries**. The tool combines **TEM image analysis**, **XRD peak fitting**，  **SAXS unified modeling** into a single web interface to facilitate reproducible data processing and structure–performance correlation studies.
 
 The platform is intended to support both routine data analysis and the construction of a **materials genome–style database** for hard carbons, enabling AI-assisted screening and design of high-performance negative electrodes.
 
