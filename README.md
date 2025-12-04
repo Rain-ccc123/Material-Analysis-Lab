@@ -196,7 +196,6 @@ These parameters are used to interpret nanopore size, connectivity, and fractal 
 All code used for quantitative data analysis has been made available via:
 
 * The **Material Analysis Lab** online platform ([http://106.53.68.158:5000/](http://106.53.68.158:5000/))
-* The associated **GitHub repository**: [https://github.com/Rain-ccc123/The-Zhao-Group](https://github.com/Rain-ccc123/The-Zhao-Group)
 
 The platform is primarily optimized for **hard carbon and related carbon materials** but can, in principle, be applied to other porous carbons with similar data formats.
 
